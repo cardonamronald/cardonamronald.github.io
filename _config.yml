@@ -16,9 +16,7 @@
 title: Ronald Cardona
 email: cardonamronald@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My name is Ronald Cardona Martínez and I'm a colombian high performance athlete and software developer @ s4n.co. Here youĺl find my work and non-work related stuff. ES/EN
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://cardonamronald.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cardonamronald
