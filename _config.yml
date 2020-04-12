@@ -16,7 +16,7 @@
 title: Ronald Cardona
 email: cardonamronald@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My name is Ronald Cardona Martínez and I'm a colombian high performance athlete and software developer @ s4n.co. Here youĺl find my work and non-work related stuff. ES/EN
+  My name is Ronald Cardona Martínez. I'm a colombian high performance athlete and software developer working @ <a href="s4n.co">s4n.co</a> . Here you'll find my work and non-work related stuff. ES/EN
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://cardonamronald.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cardonamronald
