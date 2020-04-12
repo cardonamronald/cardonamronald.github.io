@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-# Ronald Cardona Martínez
-
 ## Experience
 ### EAFIT University – [Interest group on Functional Programming, Medellín](http://bit.ly/scala-lab)
 Assistant and later monitor of the group, august de 2016 to present.
