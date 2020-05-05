@@ -27,3 +27,4 @@ Some resources before starting to write
 * [Mailbag: Evolving your engineer career beyond the career level](https://lethain.com/mailbag-beyond-career-level/ "lethain")
 * [Joining Calm](https://lethain.com/joining-calm/ "lethain")
 * [You only learn when you reflect](https://lethain.com/learn-when-you-reflect/ "lethain")
+* [Cuanto ganaran los programadores en el 2020 y 2021](https://platzi.com/comunidad/cuanto-ganaran-los-programadores-en-el-2020-y-2021-platzi-live-de-freddy-vega/ "Platzi")
