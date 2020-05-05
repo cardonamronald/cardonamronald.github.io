@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2020-05-04 21:253:25 -0500
+date:   2020-05-04 22:03:25 -0500
 categories: career advice
 ---
 Some resources before starting to write 
