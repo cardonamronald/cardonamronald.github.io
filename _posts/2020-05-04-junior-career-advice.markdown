@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Some career advice for junior devs"
 date:   2020-05-04 22:03:25 -0500
 categories: career advice
 ---
-Some resources before starting to write 
+Some resources before starting to write
 
 # Links
 * [How to stay disciplined in the long run](https://news.ycombinator.com/item?id=19777976 "Hacker News")
