@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some career advice for junior devs"
-date:   2020-05-04 22:03:25 -0500
+date:   2020-05-04 22:11:25 -0500
 categories: career advice
 ---
 Some resources before starting to write
@@ -28,3 +28,4 @@ Some resources before starting to write
 * [Joining Calm](https://lethain.com/joining-calm/ "lethain")
 * [You only learn when you reflect](https://lethain.com/learn-when-you-reflect/ "lethain")
 * [Cuanto ganaran los programadores en el 2020 y 2021](https://platzi.com/comunidad/cuanto-ganaran-los-programadores-en-el-2020-y-2021-platzi-live-de-freddy-vega/ "Platzi")
+* [Extremely disillusioned with technology. Please help](https://news.ycombinator.com/item?id=23072333 "Hacker News")
